@@ -1,2 +1,5 @@
 Update 6
 Change log entry for iteration 6
+
+Update 12
+Change log entry for iteration 12
